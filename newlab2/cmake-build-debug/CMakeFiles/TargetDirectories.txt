@@ -1,0 +1,3 @@
+C:/Users/babas/CLionProjects/newlab2/cmake-build-debug/CMakeFiles/newlab2.dir
+C:/Users/babas/CLionProjects/newlab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/babas/CLionProjects/newlab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
